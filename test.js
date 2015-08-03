@@ -1,5 +1,0 @@
-//some function
-
-function testFunction() {
-
-}
