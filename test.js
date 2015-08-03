@@ -1,0 +1,5 @@
+//some function
+
+function testFunction() {
+
+}
